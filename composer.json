@@ -1,0 +1,36 @@
+{
+    "name": "bdudelsack/bookdown-template",
+    "type": "library",
+    "description": "Template for the bookdown project using Bootstrap and HighlightJS",
+    "keywords": [
+        "bookdown",
+        "templates",
+        "syntax",
+        "highlighting",
+        "docbook",
+        "markdown",
+        "manual",
+        "documentation",
+        "static site",
+        "docs"
+    ],
+    "homepage": "https://github.com/bdudelsack/bookdown-template",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Boris Dudelsack",
+            "homepage": "https://github.com/bdudelsack/bookdown-template"
+        }
+    ],
+    "require": {
+        "bookdown/bookdown": "^0.5.0"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev",
+            "dev-develop": "1.1-dev"
+        }
+    }
+}
